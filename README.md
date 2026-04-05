@@ -114,10 +114,8 @@ pip install -r requirements.txt
 ---
 
 ## 🖼️ Screenshots
-> Add screenshots or a short demo GIF to showcase the UI and API usage.
+<img width="1494" height="785" alt="image" src="https://github.com/user-attachments/assets/9cd977a8-08cf-4802-ad5d-50cfe0f258c2" />
 
-- `screenshots/home.png`
-- `screenshots/api-response.png`
 
 ---
 
